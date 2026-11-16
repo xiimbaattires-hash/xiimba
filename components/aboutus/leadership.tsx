@@ -4,12 +4,12 @@ import { motion } from "framer-motion";
 
 const leaders = [
   {
-    name: "Sanjay Sharma",
+    name: "Rahul Sharma",
     role: "Designated Partner",
     image: "/image/leader1.png",
   },
   {
-    name: "Vikram Jugalkishor Agarwal",
+    name: "Vikram Agarwal",
     role: "Designated Partner",
     image: "/image/leader2.jpeg",
   },
